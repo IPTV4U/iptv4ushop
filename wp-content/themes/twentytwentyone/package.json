@@ -11,7 +11,7 @@
 	"bugs": {
 		"url": "https://core.trac.wordpress.org/"
 	},
-	"homepage": "https://www.iptv4u.shop",
+	"homepage": "https://wordpress.org/themes/twentytwentyone/",
 	"devDependencies": {
 		"@wordpress/browserslist-config": "^5.9.0",
 		"@wordpress/eslint-plugin": "^9.3.0",
